@@ -1,10 +1,10 @@
-# 📑 Tambah Usaha Matchapro
+📑 Tambah Usaha Matchapro
 
 Script otomasi berbasis Python untuk melakukan upload data usaha secara massal ke platform **Matchapro BPS**. Alat ini dilengkapi dengan fitur login SSO, manajemen OTP, bypass deteksi desktop (Mobile Emulation), dan penanganan rate limit otomatis.
 
 ---
 
-## 🛠 Persyaratan Sistem (Prasyarat)
+🛠 Persyaratan Sistem (Prasyarat)
 Sebelum menjalankan script atau membangun file `.exe`, pastikan perangkat memiliki:
 * **Python 3.9+**
 * **Google Chrome** (Atau browser berbasis Chromium lainnya).
@@ -15,7 +15,7 @@ Sebelum menjalankan script atau membangun file `.exe`, pastikan perangkat memili
 
 ---
 
-## 🚀 Instalasi & Persiapan
+🚀 Instalasi & Persiapan
 1. **Clone atau Copy Script** ke dalam satu folder.
 2. **Instal Dependensi:**
    ```bash
@@ -23,7 +23,7 @@ Sebelum menjalankan script atau membangun file `.exe`, pastikan perangkat memili
 
 ---
 
-## 📖 Cara Penggunaan
+📖 Cara Penggunaan
 Pastikan file desa.xlsx dan file data Anda berada di folder yang sama dengan script.
 1. Jalankan script: python tambahBaru.py
 2. Masukkan Username dan Password SSO BPS Anda.
