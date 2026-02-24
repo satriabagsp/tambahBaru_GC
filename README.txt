@@ -25,9 +25,13 @@ Sebelum menjalankan script atau membangun file `.exe`, pastikan perangkat memili
 
 📖 Cara Penggunaan
 Pastikan file desa.xlsx dan file data Anda berada di folder yang sama dengan script.
+
+# NOTE : Siapkan struktur file excel sesuai contoh (file_upload.xlsx)
+
 1. Jalankan script: python tambahBaru.py
 2. Masukkan Username dan Password SSO BPS Anda.
 3. Masukkan kode OTP jika diminta.
 4. Ketikkan nama file excel target (tanpa ekstensi .xlsx).
 5. Masukkan indeks baris mulai (ketik 0 jika ingin dari awal).
 6. Pantau progress di terminal.
+
