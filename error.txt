@@ -1,0 +1,3 @@
+Row 0: {"title":"Error","status":"error","message":"Latitude harus berada dalam rentang -90 hingga 90!"}
+Row 0: {"title":"Error","status":"error","message":"Latitude harus berada dalam rentang -90 hingga 90!"}
+Row 0: {"title":"Error","status":"error","message":"Latitude harus berada dalam rentang -90 hingga 90!"}
